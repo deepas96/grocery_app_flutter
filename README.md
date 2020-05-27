@@ -1,6 +1,6 @@
 # ya_market
 
-A new Flutter application.
+UI for YA Market app in flutter.
 
 ## Getting Started
 
